@@ -30,15 +30,27 @@ Trained on Hadoop cluster and deployed NLP ML model to AWS ECS in order to help 
 
 ### Interactive Ads optimization (*2020)
 
+Hadoop NLP TF K8s
+
 ### Comment moderation (*2019)
+
+Hadoop NLP CV TF K8s
 
 ### Comment understanding
 
+K8s
+
 ### Enterprise network security (*2019)
+
+Hadoop
 
 ### User login security (*2018)
 
+Hadoop TF XGB
+
 ### Notebook automation (*2018)
+
+Jupyter Hadoop Oozie
 
 ## Education
 
