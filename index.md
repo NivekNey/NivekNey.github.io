@@ -27,38 +27,38 @@ title: Kevin Yen
 
 ### Ads policy moderation (*2020)
 
-Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. It's a high-load service that handles millions of requests per day. 
+> Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. It's a high-load service that handles millions of requests per day. 
 
 ### Interactive Ads optimization (*2020)
 
-Formalized NLP ML model built in TensorFlow to K8s cluster as a service. Reduced the response time from prototype's 3 seconds to under 1 second. 
+> Formalized NLP ML model built in TensorFlow to K8s cluster as a service. Reduced the response time from prototype's 3 seconds to under 1 second. 
 
 ### Comment moderation (*2019)
 
-Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a high-loaded service that handles tens of thousands of requests per day.
+> Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a high-loaded service that handles tens of thousands of requests per day.
 
 ### Comment understanding
 
-Deployed on-demand model training procedure to K8s cluster. It's a high-loaded service that handles tens of thousands of requests per day.
+> Deployed on-demand model training procedure to K8s cluster. It's a high-loaded service that handles tens of thousands of requests per day.
 
 ### Enterprise network security (*2019)
 
-Hadoop
+> Hadoop
 
 ### User login security (*2018)
 
-Hadoop TF XGB
+> Hadoop TF XGB
 
 ### Notebook automation (*2018)
 
-Jupyter Hadoop Oozie
+> Jupyter Hadoop Oozie
 
 ## Education
 
 ### 2015 - 2017, The Ohio State University, USA
 
--   Master's Degree, Computer Science
+> Master's Degree, Computer Science
 
 ### 2010 - 2014, National Central University, Taiwan
 
--   Bachelor of Science, Computer Science
+> Bachelor of Science, Computer Science
