@@ -146,16 +146,13 @@ textarea {
   max-width: 100%;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Merriweather:300italic,300);
-
 html {
-  font-size: 18px;
   max-width: 100%;
 }
 
 body {
   color: #444;
-  font-family: 'Merriweather', Georgia, serif;
+  font-family: Georgia, serif;
   margin: 0;
   max-width: 100%;
 }
@@ -176,7 +173,6 @@ div img {
 }
 
 blockquote p {
-  font-size: 1.5rem;
   font-style: italic;
   margin: 1rem auto 1rem;
   max-width: 48rem;
@@ -199,7 +195,6 @@ code {
 
 pre {
   background-color: #fafafa;
-  font-size: .8rem;
   overflow-x: scroll;
   padding: 1.125em;
 }
