@@ -3,14 +3,15 @@ layout: cv
 title: Kevin Yen
 ---
 # Kevin Yen
-Principal Research Engineer working on applied machine learning
 
-<p id="webaddress">
+#### Principal Research Engineer working on applied machine learning
+
+<h4 id="webaddress">
 <a href="yen.118@osu.edu">yen.118@osu.edu</a> 
 | <a href="yenkevin1203@gmail.com">yenkevin1203@gmail.com</a> 
 | <a href="https://www.linkedin.com/in/kevinyen91">LinkedIn</a>
 | <a href="https://github.com/NivekNey">GitHub</a>
-</p>
+</h4>
 
 
 ## Summary
