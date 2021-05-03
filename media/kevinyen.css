@@ -120,9 +120,7 @@ div img {
 }
 
 blockquote p {
-  font-style: italic;
-  margin: 1rem auto 1rem;
-  max-width: 48rem;
+  padding-left: 1.5em;
 }
 
 li {
