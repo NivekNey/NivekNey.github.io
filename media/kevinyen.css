@@ -158,3 +158,9 @@ a:focus,
 a:active {
   color: #2980b9;
 }
+
+/* kevinyen additions */
+
+h1 {
+    font-weight: bold;
+}
