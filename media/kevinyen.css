@@ -138,6 +138,8 @@ p {
 pre,
 code {
   font-family: Menlo, Monaco, "Courier New", monospace;
+  background-color: mistyrose;
+  border-radius: 0.25em;
 }
 
 pre {
