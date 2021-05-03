@@ -160,8 +160,6 @@ body {
   max-width: 100%;
 }
 
-/* === A bit of a gross hack so we can have bleeding divs/blockquotes. */
-
 p,
 *:not(div):not(img):not(body):not(html):not(li):not(blockquote):not(p) {
   margin: 1rem auto 1rem;
@@ -187,14 +185,6 @@ blockquote p {
 li {
   margin-left: 2rem;
 }
-
-/* Counteract the specificity of the gross *:not() chain. */
-
-h1 {
-  padding: 4rem 0 !important;
-}
-
-/*  === End gross hack */
 
 p {
   color: #555;
