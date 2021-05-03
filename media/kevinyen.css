@@ -133,6 +133,7 @@ p {
   color: #555;
   height: auto;
   line-height: 1.45;
+  padding-left: 4em;
 }
 
 pre,
@@ -162,5 +163,10 @@ a:active {
 /* kevinyen additions */
 
 h1 {
+    font-weight: bold;
+}
+
+h2 {
+    text-transform: uppercase;
     font-weight: bold;
 }
