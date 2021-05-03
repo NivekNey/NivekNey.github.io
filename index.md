@@ -26,19 +26,19 @@ Principal Research Engineer working on applied machine learning
 
 ### Ads policy moderation (*2020)
 
-Trained on Hadoop cluster and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. The service handles millions of requests per day. 
+Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. It's a high-load service that handles millions of requests per day. 
 
 ### Interactive Ads optimization (*2020)
 
-Hadoop NLP TF K8s
+Formalized NLP ML model built in TensorFlow to K8s cluster as a service. Reduced the response time from prototype's 3 seconds to under 1 second. 
 
 ### Comment moderation (*2019)
 
-Hadoop NLP CV TF K8s
+Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a high-loaded service that handles tens of thousands of requests per day.
 
 ### Comment understanding
 
-K8s
+Deployed on-demand model training procedure to K8s cluster. It's a high-loaded service that handles tens of thousands of requests per day.
 
 ### Enterprise network security (*2019)
 
