@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kevin Yen's CV
+title: Kevin Yen
 ---
 # Kevin Yen
 Principal Research Engineer working on applied machine learning
