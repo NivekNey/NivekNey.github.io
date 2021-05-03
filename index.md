@@ -54,10 +54,10 @@ Jupyter Hadoop Oozie
 
 ## Education
 
-### `2015 - 2017`, The Ohio State University, USA
+### 2015 - 2017, The Ohio State University, USA
 
 -   Master's Degree, Computer Science
 
-### `2010 - 2014`, National Central University, Taiwan
+### 2010 - 2014, National Central University, Taiwan
 
 -   Bachelor of Science, Computer Science
