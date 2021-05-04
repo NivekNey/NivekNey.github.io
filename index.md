@@ -24,33 +24,33 @@ title: Kevin Yen
 
 ## Project
 
-`*` means the project was related to internal conference publication.
+`pub` means the project was related to internal conference publication.
 
-### Ads policy moderation (*2020)
+### Ads policy moderation `pub-2020`
 
 > Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. It's a high-load service that handles millions of requests per day. 
 
-### Interactive Ads optimization (*2020)
+### Interactive Ads optimization `pub-2020`
 
 > Formalized NLP ML model built in TensorFlow to K8s cluster as a service. Reduced the response time from prototype's 3 seconds to under 1 second. 
 
-### Comment moderation (*2019)
+### Comment moderation `pub-2019`
 
 > Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a high-loaded service that handles tens of thousands of requests per day.
 
-### Comment understanding
+### Comment understanding `pub-2020`
 
 > Deployed on-demand model training procedure to K8s cluster. It's a high-loaded service that handles tens of thousands of requests per day.
 
-### Enterprise network security (*2019)
+### Enterprise network security `pub-2019`
 
 > Hadoop
 
-### User login security (*2018)
+### User login security `pub-2018`
 
 > Hadoop TF XGB
 
-### Notebook automation (*2018)
+### Notebook automation `pub-2018`
 
 > Jupyter Hadoop Oozie
 
