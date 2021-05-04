@@ -59,7 +59,9 @@ _TechPulse_ is a company-wide conference an acceptance rate of ~15%.
 ### 2015 - 2017, The Ohio State University, USA
 
 > Master's Degree, Computer Science
+> Worked on visualization related projects including data visualization and visualization systems.
 
 ### 2010 - 2014, National Central University, Taiwan
 
 > Bachelor of Science, Computer Science
+> Wored on Human-Computer Interaction related projects such as virtual instrument enabled by human gesture tracking.
