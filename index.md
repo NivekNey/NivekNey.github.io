@@ -28,19 +28,19 @@ _TechPulse_ is a company-wide conference an acceptance rate of ~15%.
 
 ### Ads policy moderation <sup>TechPulse 2020</sup>
 
-> Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 97%. It's a heavy-loaded service that handles millions of requests per day. 
+> Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to the previous solution, improved the precision from 33% to 97%. It's a heavy-loaded service that handles millions of requests each day. 
 
 ### Interactive Ads optimization <sup>TechPulse 2020</sup>
 
-> Formalized NLP ML model built in TensorFlow to K8s cluster as a service. Reduced the response time from prototype's 3 seconds to under 1 second. 
+> Formalized NLP ML model built in TensorFlow to K8s cluster as a service. It helps user to interactively improve their advertisement. Reduced the response time from prototype's 3 seconds to under 1 second. 
 
 ### Comment moderation <sup>TechPulse 2019</sup>
 
-> Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a heavy-loaded service that handles tens of thousands of requests per day.
+> Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. The services help content moderation by auto flagging violations. Reduced error rate by 10%. It's a heavy-loaded service that handles tens of thousands of requests per day.
 
 ### Comment understanding 
 
-> Deployed on-demand model training procedure to K8s cluster. It's a heavy-loaded service that handles tens of thousands of requests per day.
+> Deployed an on-demand model training procedure to K8s cluster as a service. It allows a quick understanding of the comment topics under each articles. It's a heavy-loaded service that handles tens of thousands of requests per day.
 
 ### Enterprise network security <sup>TechPulse 2019</sup>
 
@@ -48,11 +48,11 @@ _TechPulse_ is a company-wide conference an acceptance rate of ~15%.
 
 ### User login security <sup>TechPulse 2018</sup>
 
-> Trained ML model built in TensorFlow and XGBoost to production. The volume is 14M per day.
+> Trained ML model built in TensorFlow and XGBoost to production. The models minimize the interruption to real users while maintain security. The volume is 14M per day.
 
 ### Notebook automation <sup>TechPulse 2018</sup>
 
-> Built a feature to easily automate notebooks.
+> Built a feature to easily automate notebooks in Hadoop system. It accelerates the transformation from prototypes in notebooks into pipelines. 
 
 ## Education
 
