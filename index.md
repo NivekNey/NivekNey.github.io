@@ -24,6 +24,8 @@ title: Kevin Yen
 
 ## Project
 
+TechPulse is a conference within the company with acceptance rate of ~15%.
+
 ### Ads policy moderation <sup>TechPulse 2020</sup>
 
 > Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. It's a high-load service that handles millions of requests per day. 
