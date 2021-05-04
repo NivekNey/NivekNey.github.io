@@ -20,7 +20,7 @@ title: Kevin Yen
 -   US citizen, Master's in Computer Science. 
 -   Working on __data science__ and __applied machine learning__. Projects include but not limited to __Vision__ and __NLP__.
 -   Also does front-end, back-end, and anything needed to make things work.
--   Versitile tech stack, important mentions are: Spark, TensorFlow, K8s.
+-   Versitile tech stack, a few mentions: __Spark__, __TensorFlow__, __K8s__.
 
 ## Project
 
