@@ -62,7 +62,7 @@ _TechPulse_ is a conference within Yahoo! with an acceptance rate of ~15%.
 
 ### 2012, Lisco Global Solutions LID., Taiwan
 
-> Worked as a summer intern, project includes feature implementation and Microsoft Office integration.
+> Worked as a summer intern, the work includes feature implementation and Microsoft Office integration.
 
 ## Education
 
