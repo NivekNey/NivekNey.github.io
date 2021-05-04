@@ -28,7 +28,7 @@ _TechPulse_ is a company-wide conference an acceptance rate of ~15%.
 
 ### Ads policy moderation <sup>TechPulse 2020</sup>
 
-> Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. It's a high-load service that handles millions of requests per day. 
+> Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 97%. It's a heavy-loaded service that handles millions of requests per day. 
 
 ### Interactive Ads optimization <sup>TechPulse 2020</sup>
 
@@ -36,23 +36,23 @@ _TechPulse_ is a company-wide conference an acceptance rate of ~15%.
 
 ### Comment moderation <sup>TechPulse 2019</sup>
 
-> Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a high-loaded service that handles tens of thousands of requests per day.
+> Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a heavy-loaded service that handles tens of thousands of requests per day.
 
 ### Comment understanding 
 
-> Deployed on-demand model training procedure to K8s cluster. It's a high-loaded service that handles tens of thousands of requests per day.
+> Deployed on-demand model training procedure to K8s cluster. It's a heavy-loaded service that handles tens of thousands of requests per day.
 
 ### Enterprise network security <sup>TechPulse 2019</sup>
 
-> Hadoop
+> Created scaleable detection systems in Hadoop, monitoring all the enterprise network traffic. The volume is 300 million per day.  
 
 ### User login security <sup>TechPulse 2018</sup>
 
-> Hadoop TF XGB
+> Trained ML model built in TensorFlow and XGBoost to production. The volume is 14M per day.
 
 ### Notebook automation <sup>TechPulse 2018</sup>
 
-> Jupyter Hadoop Oozie
+> Built a feature to easily automate notebooks.
 
 ## Education
 
