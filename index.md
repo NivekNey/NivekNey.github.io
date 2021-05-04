@@ -7,7 +7,8 @@ title: Kevin Yen
 #### Principal Research Engineer working on applied machine learning
 
 <h4 id="webaddress">
-<a href="yenkevin1203@gmail.com">yenkevin1203@gmail.com</a> 
+(614)264-9941
+| <a href="yenkevin1203@gmail.com">yenkevin1203@gmail.com</a> 
 | <a href="https://www.linkedin.com/in/kevinyen91">LinkedIn</a>
 <!-- | <a href="https://github.com/NivekNey">GitHub</a> -->
 </h4>
@@ -17,7 +18,7 @@ title: Kevin Yen
 ## About me
 
 -   US citizen, Master's in Computer Science. 
--   Working on __data science__ and __applied machine learning__. Projects include but not limited to Vision and NLP.
+-   Working on __data science__ and __applied machine learning__. Projects include but not limited to __Vision__ and __NLP__.
 -   Also does front-end, back-end, and anything needed to make things work.
 -   Versitile tech stack, important mentions are: Spark, TensorFlow, K8s.
 
