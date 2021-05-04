@@ -24,17 +24,15 @@ title: Kevin Yen
 
 ## Project
 
-`pub` means the project was related to internal conference publication.
-
-### `pub` Ads policy moderation
+### Ads policy moderation <sup>TechPulse 2020</sup>
 
 > Trained and deployed NLP ML model to AWS ECS in order to help policy moderation. Compared to previous solution, improved precision from 33% to 95%. It's a high-load service that handles millions of requests per day. 
 
-### `pub` Interactive Ads optimization
+### Interactive Ads optimization <sup>TechPulse 2020</sup>
 
 > Formalized NLP ML model built in TensorFlow to K8s cluster as a service. Reduced the response time from prototype's 3 seconds to under 1 second. 
 
-### `pub` Comment moderation 
+### Comment moderation <sup>TechPulse 2019</sup>
 
 > Trained and deployed NLP ML model as well as Vision ML model, both written in TensorFlow, to K8s cluster as services. Reduced error rate by 10%. It's a high-loaded service that handles tens of thousands of requests per day.
 
@@ -42,15 +40,15 @@ title: Kevin Yen
 
 > Deployed on-demand model training procedure to K8s cluster. It's a high-loaded service that handles tens of thousands of requests per day.
 
-### `pub` Enterprise network security 
+### Enterprise network security <sup>TechPulse 2019</sup>
 
 > Hadoop
 
-### `pub` User login security
+### User login security <sup>TechPulse 2018</sup>
 
 > Hadoop TF XGB
 
-### `pub` Notebook automation
+### Notebook automation <sup>TechPulse 2018</sup>
 
 > Jupyter Hadoop Oozie
 
