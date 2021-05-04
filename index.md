@@ -24,7 +24,7 @@ title: Kevin Yen
 
 ## Project
 
-_TechPulse_ is a company-wide conference an acceptance rate of ~15%.
+_TechPulse_ is a conference within Yahoo! with an acceptance rate of ~15%.
 
 ### Ads policy moderation <sup>TechPulse 2020</sup>
 
@@ -53,6 +53,12 @@ _TechPulse_ is a company-wide conference an acceptance rate of ~15%.
 ### Notebook automation <sup>TechPulse 2018</sup>
 
 > Built a feature to easily automate notebooks in Hadoop system. It accelerates the transformation from prototypes in notebooks into pipelines. 
+
+## Work experience
+
+### 2017 - present, Yahoo!, USA
+
+### 2012, Lisco Global Solutions LID., Taiwan
 
 ## Education
 
