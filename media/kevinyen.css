@@ -172,3 +172,7 @@ h2 {
 hr {
     max-width: 56rem;
 }
+
+sup {
+    font-size: 0.7em;
+}
