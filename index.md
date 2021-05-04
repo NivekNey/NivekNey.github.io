@@ -24,7 +24,7 @@ title: Kevin Yen
 
 ## Project
 
-TechPulse is a conference within the company with acceptance rate of ~15%.
+TechPulse is a company-wide conference an acceptance rate of ~15%.
 
 ### Ads policy moderation <sup>TechPulse 2020</sup>
 
