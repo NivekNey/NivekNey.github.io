@@ -23,7 +23,7 @@
           return response.json();
         })
         .then((commits) => {
-          document.getElementById('last-modified').textContent = commits[0]['commit']['committer']['date'];
+          document.getElementById('last-modified').textContent = "Last Edit: " + commits[0]['commit']['committer']['date'];
         });
     }
   </script>
