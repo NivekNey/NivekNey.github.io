@@ -9,7 +9,7 @@ title: Kevin Yen
 <h4 id="webaddress">
 (614)264-9941
 | <a href="yenkevin1203@gmail.com">yenkevin1203@gmail.com</a>
-| <a href="https://www.linkedin.com/in/kevinyen91">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/kevinyen91">https://www.linkedin.com/in/kevinyen91</a>
 <!-- | <a href="https://github.com/NivekNey">GitHub</a> -->
 </h4>
 
