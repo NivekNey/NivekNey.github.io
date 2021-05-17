@@ -75,5 +75,3 @@ _TechPulse_ is a conference within Yahoo! with an acceptance rate of ~15%.
 
 > Bachelor of Science, Computer Science.
 > Worked on Human-Computer Interaction related projects such as virtual instruments enabled by human gesture tracking.
-
-
