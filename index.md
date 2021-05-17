@@ -44,7 +44,7 @@ _TechPulse_ is a conference within Yahoo! with an acceptance rate of ~15%.
 
 ### Enterprise network security <sup>TechPulse 2019</sup>
 
-> Created scalable detection systems in Hadoop, detecting __abnormal and malicious behaviors__ the enterprise network traffic. The volume is __300 million__ per day.  
+> Created scalable detection systems in Hadoop, detecting __abnormal and malicious behaviors__ of the enterprise network traffic. The volume is __300 million__ per day.  
 
 ### User login security <sup>TechPulse 2018</sup>
 
