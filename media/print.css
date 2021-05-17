@@ -1,5 +1,9 @@
 /* Started from https://github.com/sindresorhus/github-markdown-css/edit/main/github-markdown.css */
 
+body {
+  font-size: 80%;
+}
+
 .octicon {
   display: inline-block;
   fill: currentColor;
