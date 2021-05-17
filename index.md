@@ -17,7 +17,7 @@ title: Kevin Yen
 
 ## About me
 
--   US citizen, Master's in Computer Science.
+-   __US citizen__, Master's in Computer Science.
 -   Working on __data science__ and __applied machine learning__. Projects include but are not limited to __Vision__ and __NLP__.
 -   Also does front-end, back-end, and anything needed to make things work.
 -   Versatile tech stack, a few mentions: __Spark__, __TensorFlow__, __K8s__.
