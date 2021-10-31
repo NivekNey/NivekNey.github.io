@@ -49,3 +49,8 @@ Listed projects are published to internal conference with 15% acceptance rate.
   * Data Visualization and Visualization Systems
 * 2010 - 2014, Bachelor of Science, Computer Science. National Central University, Taiwan
   * Human-Computer Interaction
+
+## Languages
+
+* Current/Fluent: Python
+* Prior Experience: JavaScript, Java, C++, Golang, PHP
