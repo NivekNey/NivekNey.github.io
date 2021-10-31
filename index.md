@@ -25,54 +25,27 @@ title: Kevin Yen
 
 Listed projects are published to internal conference with 15% acceptance rate.
 
-### Ads Integrity
-
-- NLP ML model
-- AWS ECS
-- Chrome Extension
-- System precision improved 3x -- from 33% to 97%
-
-### Interactive Ads Optimization
-
-- NLP ML model
-- K8s cluster
-- Decrease model latency 3x -- to sub 1 sec
-
-### UGC Integrity
-
-- NLP + Vision ML model
-- K8s cluster
-- Reduced error rate by 10%
-
-### Enterprise Network Security
-
-- Exfiltration detection at scale with Isolation Forest
-- Netflow data enrichment via data lookup at scale with Hive
-
-### User Login Security
-
-- ML model as login safe-guard
-
-### Notebook Automation
-
-- Hadoop + Jupyter
+* Ads Integrity - `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`
+  * System precision improved 3x -- from 33% to 97%
+* Interactive Ads Optimization - `NLP`, `K8s`
+  * Decrease model latency 3x -- to sub 1 sec
+* UGC Integrity - `NLP`, `Vision`, `K8s`
+  * Reduced error rate by 10%
+* Enterprise Network Security - `Data Science`, `Hive`, `Spark`
+  * Netflow Enrichment and Exfiltration Detection at scale 
+* User Login Security - `Data Science`, `General ML`
+* Notebook Automation - `Hadoop`, `JupyterHub`
 
 ## Work experience
 
-### 2017 - present, Yahoo!, USA
-
-The projects listed above are all done within this period
-
-### 2012, Lisco Global Solutions LID., Taiwan
-
-Worked as a summer intern, the work includes feature implementation and Microsoft Office integration
+* 2017 - present, Yahoo!, USA
+  * The projects listed above are all done within this period
+* 2012, Lisco Global Solutions LID., Taiwan
+  * Summer internship, feature implementation and Microsoft Office integration
 
 ## Education
 
-### 2015 - 2017, Master's Degree, Computer Science. The Ohio State University, USA
-
-Data Visualization and Visualization Systems
-
-### 2010 - 2014, Bachelor of Science, Computer Science. National Central University, Taiwan
-
-Human-Computer Interaction
+* 2015 - 2017, Master's Degree, Computer Science. The Ohio State University, USA
+  * Data Visualization and Visualization Systems
+* 2010 - 2014, Bachelor of Science, Computer Science. National Central University, Taiwan
+  * Human-Computer Interaction
