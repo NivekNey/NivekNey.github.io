@@ -4,74 +4,75 @@ title: Kevin Yen
 ---
 # Kevin Yen
 
-#### Principal Research Engineer working on applied machine learning
+#### Principal Research Engineer @ Yahoo
 
 <h4 id="webaddress">
 (614)264-9941
-| <a href="yenkevin1203@gmail.com">yenkevin1203@gmail.com</a>
+| yenkevin1203(at)gmail.com
 | <a href="https://www.linkedin.com/in/kevinyen91">https://www.linkedin.com/in/kevinyen91</a>
-<!-- | <a href="https://github.com/NivekNey">GitHub</a> -->
 </h4>
 
 <hr>
 
 ## About me
 
--   __US citizen__, Master's in Computer Science.
--   Working on __data science__ and __applied machine learning__. Projects include but are not limited to __Vision__ and __NLP__.
--   Also does front-end, back-end, and anything needed to make things work.
--   Versatile tech stack, a few mentions: __Spark__, __TensorFlow__, __K8s__.
+-   __US citizen working on data science and applied machine learning__.
+-   __Ad Tech, Content & Ad integrity with Vision, NLP, and data science__.
+-   Back-end, front-end, deployment, and anything needed to make things work.
+-   Versatile tech -- __Spark, TensorFlow, K8s, and more__.
 
-## Project
+## Notable Projects
 
-_TechPulse_ is a conference within Yahoo! with an acceptance rate of ~15%.
+Listed projects are published to internal conference with 15% acceptance rate.
 
-### Ads policy moderation <sup>TechPulse 2020</sup>
+### Ads Integrity
 
-> Trained and deployed __NLP ML model__ to __AWS ECS__ in order to help __policy moderation__. Compared to the previous solution, the precision improved __from 33% to 97%__. It's a heavy-loaded service that handles __millions of requests__ each day.
+- NLP ML model
+- AWS ECS
+- Chrome Extension
+- System precision improved 3x -- from 33% to 97%
 
-### Interactive Ads optimization <sup>TechPulse 2020</sup>
+### Interactive Ads Optimization
 
-> Formalized __NLP ML model__ built in __TensorFlow__ to __K8s cluster__ as a service. It helps users to interactively __improve advertisement__ in the process of creation. Reduced the response time from prototype's __3 seconds to under 1 second__.
+- NLP ML model
+- K8s cluster
+- Decrease model latency 3x -- to sub 1 sec
 
-### Comment moderation <sup>TechPulse 2019</sup>
+### UGC Integrity
 
-> Trained and deployed __NLP ML model__ as well as __Vision ML model__, both written in __TensorFlow__, to __K8s cluster__ as services. The services help __content moderation__ by auto flagging violations. __Reduced error rate by 10%__. It's a heavy-loaded service that handles __tens of thousands of requests__ per day.
+- NLP + Vision ML model
+- K8s cluster
+- Reduced error rate by 10%
 
-### Comment understanding
+### Enterprise Network Security
 
-> Deployed an on-demand model training procedure to __K8s cluster__ as a service. It allows a quick understanding of the comment topics under each article. It's a heavy-loaded service that handles __tens of thousands of requests__ per day.
+- Exfiltration detection at scale with Isolation Forest
+- Netflow data enrichment via data lookup at scale with Hive
 
-### Enterprise network security <sup>TechPulse 2019</sup>
+### User Login Security
 
-> Created scalable detection systems in Hadoop, detecting __abnormal and malicious behaviors__ of the enterprise network traffic. The volume is __300 million__ per day.  
+- ML model as login safe-guard
 
-### User login security <sup>TechPulse 2018</sup>
+### Notebook Automation
 
-> Trained ML model built in __TensorFlow__ and __XGBoost__ to production. The models minimize the interruption to real users while __maintaining security__. The volume is __14M__ per day.
-
-### Notebook automation <sup>TechPulse 2018</sup>
-
-> Built a feature to easily automate notebooks in the __Hadoop__ system. It accelerates the transformation from prototypes in notebooks into pipelines.
+- Hadoop + Jupyter
 
 ## Work experience
 
 ### 2017 - present, Yahoo!, USA
 
-> The projects listed above are all done within this period.
+The projects listed above are all done within this period
 
 ### 2012, Lisco Global Solutions LID., Taiwan
 
-> Worked as a summer intern, the work includes feature implementation and Microsoft Office integration.
+Worked as a summer intern, the work includes feature implementation and Microsoft Office integration
 
 ## Education
 
-### 2015 - 2017, The Ohio State University, USA
+### 2015 - 2017, Master's Degree, Computer Science. The Ohio State University, USA
 
-> Master's Degree, Computer Science.
-> Worked on visualization related projects including data visualization and visualization systems.
+Data Visualization and Visualization Systems
 
-### 2010 - 2014, National Central University, Taiwan
+### 2010 - 2014, Bachelor of Science, Computer Science. National Central University, Taiwan
 
-> Bachelor of Science, Computer Science.
-> Worked on Human-Computer Interaction related projects such as virtual instruments enabled by human gesture tracking.
+Human-Computer Interaction
