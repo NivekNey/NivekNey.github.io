@@ -1,32 +1,14 @@
-html {
-  max-width: 100%;
-}
-
 body {
-  font-family: Verdana, sans-serif;
-  max-width: 100%;
+  font-family: Helvetica;
 }
 
-p,
-*:not(div):not(img):not(body):not(html):not(li):not(blockquote):not(p):not(hr):not(ul) {
+#content {
   margin: 1rem auto 1rem;
-  max-width: 56rem;
+  max-width: 45rem;
 }
 
 div {
   width: 100%;
-}
-
-div img {
-  width: 100%;
-}
-
-blockquote p {
-  max-width: 52em;
-}
-
-li {
-  margin-left: 2rem;
 }
 
 pre,
@@ -53,6 +35,7 @@ a:active {
 
 /* kevinyen additions */
 
+
 h1 {
     font-weight: bold;
 }
@@ -61,28 +44,30 @@ h2 {
     text-transform: uppercase;
     font-weight: bold;
     text-decoration: underline;
+    font-size: 1rem;
+    margin-bottom: 0; 
 }
 
 h3 {
     font-weight: bold;
+    font-size: 1rem;
 }
 
 hr {
-    max-width: 56rem;
-}
-
-sup {
-    font-size: 0.7em;
-    font-style: italic;
-    font-weight: normal;
+    max-width: 45rem;
 }
 
 ul {
   margin: 0rem auto 0rem;
-  max-width: 56rem;
-  padding-inline-start: 1rem;
 }
 
 #content > ul > li {
-  padding-top: 1rem
+  padding-top:0.51rem
+}
+
+footer {
+  font-size: 0.5rem;
+  padding-top: 1rem;
+  margin: 1rem auto 1rem;
+  max-width: 45rem;
 }
