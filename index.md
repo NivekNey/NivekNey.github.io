@@ -4,23 +4,23 @@ title: Kevin Yen
 ---
 # Kevin Yen
 
-#### Principal Research Engineer @ Yahoo
+#### Research Engineer @ Yahoo!
 
 <h4 id="webaddress">
 (614)264-9941
-| yenkevin1203(at)gmail.com
-| <a href="https://www.linkedin.com/in/kevinyen91">https://www.linkedin.com/in/kevinyen91</a>
+⸱ yenkevin1203(at)gmail.com
+⸱ <a href="https://www.linkedin.com/in/kevinyen91">https://www.linkedin.com/in/kevinyen91</a>
 </h4>
 
 <hr>
 
 ## About me
 
--   __US citizen working on data science and applied machine learning__.
--   __Ad Tech, Content & Ad integrity with Vision, NLP, and data science__.
--   Versatile tech -- __Spark, TensorFlow, K8s, AWS, Airflow, and more__.
+* __US citizen__, Data Science + Applied Machine Learning.
+  * Areas include: Ad Tech, Content & Ad integrity with Vision and NLP, and more.
+  * Tech stacks include: Spark, TensorFlow, K8s, AWS, Airflow, and more.
 
-## Notable Projects
+## Major Projects
 
 * Ad SSP and Exchange - `Data Science`, `AWS EMR`
 * Ads Integrity - `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`
