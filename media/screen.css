@@ -1,106 +1,9 @@
-/* Started from https://github.com/markdowncss/splendor/blob/master/css/splendor.css */
-@media print {
-  *,
-  *:before,
-  *:after {
-    background: transparent !important;
-    color: #000 !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
-  }
-
-  a,
-  a:visited {
-    text-decoration: underline;
-  }
-
-  a[href]:after {
-    content: " (" attr(href) ")";
-  }
-
-  abbr[title]:after {
-    content: " (" attr(title) ")";
-  }
-
-  a[href^="#"]:after,
-  a[href^="javascript:"]:after {
-    content: "";
-  }
-
-  pre,
-  blockquote {
-    border: 1px solid #999;
-    page-break-inside: avoid;
-  }
-
-  thead {
-    display: table-header-group;
-  }
-
-  tr,
-  img {
-    page-break-inside: avoid;
-  }
-
-  img {
-    max-width: 100% !important;
-  }
-
-  p,
-  h2,
-  h3 {
-    orphans: 3;
-    widows: 3;
-  }
-
-  h2,
-  h3 {
-    page-break-after: avoid;
-  }
-}
-
-body {
-  line-height: 1.85;
-}
-
-p,
-.splendor-p {
-  margin-bottom: 1.3rem;
-}
-
-h1,
-.splendor-h1,
-h2,
-.splendor-h2,
-h3,
-.splendor-h3,
-h4,
-.splendor-h4 {
-  margin: 1.414rem 0 .5rem;
-  font-weight: inherit;
-  line-height: 1.42;
-}
-
-/* https://github.com/mrmrs/fluidity */
-
-img,
-canvas,
-iframe,
-video,
-svg,
-select,
-textarea {
-  max-width: 100%;
-}
-
 html {
   max-width: 100%;
 }
 
 body {
-  color: #444;
-  font-family: Georgia, serif;
-  margin: 0;
+  font-family: Verdana, sans-serif;
   max-width: 100%;
 }
 
@@ -108,7 +11,6 @@ p,
 *:not(div):not(img):not(body):not(html):not(li):not(blockquote):not(p):not(hr) {
   margin: 1rem auto 1rem;
   max-width: 56rem;
-  padding: .25rem;
 }
 
 div {
@@ -127,23 +29,15 @@ li {
   margin-left: 2rem;
 }
 
-p {
-  color: #555;
-  height: auto;
-  line-height: 1.45;
-}
-
 pre,
 code {
-  font-family: Menlo, Monaco, "Courier New", monospace;
-  background-color: Ivory;
+  font-family: Consolas, Menlo, "courier new", monospace;
+  background-color: rgba(222, 222, 222, 0.3);
+  color: rgb(220, 20, 60);
   border-radius: 0.25em;
-}
-
-pre {
-  background-color: #fafafa;
-  overflow-x: scroll;
-  padding: 1.125em;
+  box-sizing: border-box;
+  padding-left: 4px;
+  padding-right: 4px;
 }
 
 a,
