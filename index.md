@@ -18,13 +18,11 @@ title: Kevin Yen
 
 -   __US citizen working on data science and applied machine learning__.
 -   __Ad Tech, Content & Ad integrity with Vision, NLP, and data science__.
--   Back-end, front-end, deployment, and anything needed to make things work.
--   Versatile tech -- __Spark, TensorFlow, K8s, and more__.
+-   Versatile tech -- __Spark, TensorFlow, K8s, AWS, and more__.
 
 ## Notable Projects
 
-Listed projects are published to internal conference with 15% acceptance rate.
-
+* Ad SSP and Exchange - `Data Science`, `AWS EMR`
 * Ads Integrity - `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`
   * System precision improved 3x -- from 33% to 97%
 * Interactive Ads Optimization - `NLP`, `K8s`
@@ -53,4 +51,4 @@ Listed projects are published to internal conference with 15% acceptance rate.
 ## Languages
 
 * Current/Fluent: Python
-* Prior Experience: JavaScript, Java, C++, Golang, PHP
+* Prior Experience: Scala, TypeScript, JavaScript, Java, LUA, C++, Golang, PHP
