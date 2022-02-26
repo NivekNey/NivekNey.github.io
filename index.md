@@ -18,7 +18,7 @@ title: Kevin Yen
 
 -   __US citizen working on data science and applied machine learning__.
 -   __Ad Tech, Content & Ad integrity with Vision, NLP, and data science__.
--   Versatile tech -- __Spark, TensorFlow, K8s, AWS, and more__.
+-   Versatile tech -- __Spark, TensorFlow, K8s, AWS, Airflow, and more__.
 
 ## Notable Projects
 
