@@ -8,7 +8,7 @@ body {
 }
 
 p,
-*:not(div):not(img):not(body):not(html):not(li):not(blockquote):not(p):not(hr) {
+*:not(div):not(img):not(body):not(html):not(li):not(blockquote):not(p):not(hr):not(ul) {
   margin: 1rem auto 1rem;
   max-width: 56rem;
 }
@@ -75,4 +75,14 @@ sup {
     font-size: 0.7em;
     font-style: italic;
     font-weight: normal;
+}
+
+ul {
+  margin: 0rem auto 0rem;
+  max-width: 56rem;
+  padding-inline-start: 1rem;
+}
+
+#content > ul > li {
+  padding-top: 1rem
 }
