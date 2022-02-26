@@ -7,10 +7,6 @@ body {
   max-width: 45rem;
 }
 
-div {
-  width: 100%;
-}
-
 pre,
 code {
   font-family: Consolas, Menlo, "courier new", monospace;
@@ -27,15 +23,6 @@ a:visited {
   color: #3498db;
 }
 
-a:hover,
-a:focus,
-a:active {
-  color: #2980b9;
-}
-
-/* kevinyen additions */
-
-
 h1 {
     font-weight: bold;
 }
@@ -49,20 +36,12 @@ h2 {
 }
 
 h3 {
-    font-weight: bold;
+    font-weight: normal;
     font-size: 1rem;
 }
 
-hr {
-    max-width: 45rem;
-}
-
-ul {
-  margin: 0rem auto 0rem;
-}
-
 #content > ul > li {
-  padding-top:0.51rem
+  padding-top:0.1rem
 }
 
 footer {
