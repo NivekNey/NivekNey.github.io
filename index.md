@@ -22,7 +22,7 @@ title: Kevin Yen
 
 ## Major Projects
 
-* **Ad SSP and Ad Exchange** - `Data Science`, `AWS EMR`
+* **Ad SSP and Ad Exchange** - `Data Science`, `AWS EMR`, `AWS SageMaker`
 * **Ads Integrity** - `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`
   * System precision improved 3x -- from 33% to 97%
 * **Interactive Ads Optimization** - `NLP`, `K8s`
