@@ -7,8 +7,7 @@ title: Kevin Yen
 #### Research Engineer @ Yahoo!
 
 <h4 id="webaddress">
-(614)264-9941
-⸱ yenkevin1203(at)gmail.com
+yenkevin1203(at)gmail.com
 ⸱ <a href="https://www.linkedin.com/in/kevinyen91">https://www.linkedin.com/in/kevinyen91</a>
 </h4>
 
@@ -16,15 +15,14 @@ title: Kevin Yen
 
 ## About me
 
-* **US citizen**, Data Science + Applied Machine Learning.
-  * Areas include: **Ad Tech, Content & Ad integrity with Vision and NLP**, and more.
-  * Tech stacks include: **Spark, TensorFlow, K8s, AWS, Airflow**, and more.
+* **US citizen**, Data Science + Applied Machine Learning and Science.
+* Area: Ad Tech, Ad integrity, Computer Vision, NLP, and more.
+* Tech: Spark, TensorFlow, K8s, AWS, Airflow, and more.
 
-## Major Projects
+## Selected Projects
 
-* **Ad SSP and Ad Exchange** - `Data Science`, `AWS EMR`, `AWS SageMaker`
-* **Ads Integrity** - `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`
-  * System precision improved 3x -- from 33% to 97%
+* **Ad SSP Exchange Optimization** - Worked on optimizing the in-take and out-going traffic of Yahoo's high-QPS ad excahnge. These work massively reduced the cost and increased the revenue of the product. Work includes problem design, model design, impact estimation, implementation, deployment, and more. Tech stack includes `Data Science`, `AWS EMR`, and `AWS SageMaker`.
+* **Ads Integrity** - Worked on improving the process of company policy enforcement on the ad creatives. Massively increased the system's precision from 33% to 97% which leads to higher efficiency of human agents. Work includes problem design, ... <similarly end-to-end as above>. Tech stack includes `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`, and more.
 * **Interactive Ads Optimization** - `NLP`, `K8s`
   * Decrease model latency 3x -- to sub 1 sec
 * **UGC Integrity** - `NLP`, `Vision`, `K8s`
