@@ -9,6 +9,7 @@ title: Kevin Yen
 <h4 id="webaddress">
 yenkevin1203(at)gmail.com
 ⸱ <a href="https://www.linkedin.com/in/kevinyen91">https://www.linkedin.com/in/kevinyen91</a>
+⸱ <a href="https://kevinyen.net/media/kevinyen_resume.pdf">Resume PDF</a>
 </h4>
 
 <hr>
