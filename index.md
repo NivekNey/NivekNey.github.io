@@ -22,7 +22,7 @@ yenkevin1203(at)gmail.com
 ## Selected Projects
 
 * **Ad SSP Exchange Optimization** - Worked on optimizing the in-take and out-going traffic of Yahoo's high-QPS ad excahnge. These work massively reduced the cost and increased the revenue of the product. Work includes problem design, model design, impact estimation, implementation, deployment, and more. Tech stack includes `Data Science`, `AWS EMR`, and `AWS SageMaker`.
-* **Ads Integrity** - Worked on improving the process of company policy enforcement on the ad creatives. Massively increased the system's precision from 33% to 97% which leads to higher efficiency of human agents. Work includes problem design, ... <similarly end-to-end as above>. Tech stack includes `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`, and more.
+* **Ads Integrity** - Worked on improving the process of company policy enforcement on the ad creatives. Massively increased the system's precision from 33% to 97% which leads to higher efficiency of human agents. Work includes problem design, ... (similarly end-to-end as above). Tech stack includes `NLP`, `Vision`, `Data Science`, `AWS ECS`, `Chrome Extension`, and more.
 * **Interactive Ads Optimization** - `NLP`, `K8s`
   * Decrease model latency 3x -- to sub 1 sec
 * **UGC Integrity** - `NLP`, `Vision`, `K8s`
