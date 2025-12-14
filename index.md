@@ -1,7 +1,9 @@
------
+---
 
-## layout: cv
+layout: cv
 title: Kevin Yen
+
+---
 
 # Kevin Yen
 
