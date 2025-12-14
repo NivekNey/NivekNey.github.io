@@ -90,7 +90,7 @@ Co-leading the design of Yahoo’s next-generation recommendation system—rethi
 
 **4 patents and trade secrets** covering content moderation systems, ad creative optimization, and security technologies.
 
-See [full publication list on resume](https://kevinyen.net/media/kevinyen_resume.pdf).
+See [full publication list on Google Scholar](https://scholar.google.com/citations?user=YnP8rS4AAAAJ&hl=en).
 
 
 ## Technologies
