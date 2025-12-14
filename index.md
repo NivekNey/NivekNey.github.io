@@ -23,7 +23,7 @@ yenkevin1203@gmail.com
 
 I build systems that connect millions of people with content they care about. Currently leading the development of Yahoo’s next-generation recommendation infrastructure—modernizing how we serve personalized content with LLM-powered systems that enable faster iteration and better user experiences.
 
-**How I work:** I do whatever the project needs to succeed. Sometimes that means leading design discussions and coordinating across teams. Sometimes it means writing production code at 11pm .to hit a launch deadline. Sometimes it means diving into research papers to figure out if a new technique will actually work at scale. I’ve led projects, written papers, debugged distributed systems, and refactored legacy codebases—whatever moves the work forward.
+**How I work:** I do whatever the project needs to succeed. Sometimes that means leading design discussions and coordinating across teams. Sometimes it means writing production code at 11pm to hit a launch deadline. Sometimes it means diving into research papers to figure out if a new technique will actually work at scale. I’ve led projects, written papers, debugged distributed systems, and refactored legacy codebases—whatever moves the work forward.
 
 **What I do:** End-to-end applied ML and systems work, from initial exploration to production deployment. My work spans recommendation systems, ad tech optimization, content moderation, and infrastructure that enables other engineers to move faster. I’m comfortable being hands-on with code or stepping back to design architecture and coordinate execution.
 
