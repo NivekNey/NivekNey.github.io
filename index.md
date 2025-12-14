@@ -17,7 +17,6 @@ yenkevin1203@gmail.com
 ⸱ NYC
 </h4>
 
------
 
 ## About
 
@@ -29,7 +28,6 @@ I build systems that connect millions of people with content they care about. Cu
 
 **Background:** U.S. citizen with 8+ years at Yahoo, working across research and engineering. Computer Science degrees from Ohio State (MS) and National Central University (BS). Experienced in Python, Scala, TypeScript, and several other languages.
 
------
 
 ## Recent Work
 
@@ -45,7 +43,6 @@ Co-leading the design of Yahoo’s next-generation recommendation system—rethi
 
 *Kevin Systrom and Mike Krieger previously founded Instagram; Mike Krieger is now Chief Product Officer at Anthropic*
 
------
 
 ## Selected Projects
 
@@ -86,7 +83,6 @@ Co-leading the design of Yahoo’s next-generation recommendation system—rethi
 - Implemented CICD pipelines and conducted major codebase refactoring
 - Built notebook automation features for reproducible workflows
 
------
 
 ## Publications & Patents
 
@@ -96,7 +92,6 @@ Co-leading the design of Yahoo’s next-generation recommendation system—rethi
 
 See [full publication list on resume](https://kevinyen.net/media/kevinyen_resume.pdf).
 
------
 
 ## Technologies
 
@@ -106,7 +101,6 @@ See [full publication list on resume](https://kevinyen.net/media/kevinyen_resume
 
 **Languages:** English, Chinese
 
------
 
 ## Timeline
 
