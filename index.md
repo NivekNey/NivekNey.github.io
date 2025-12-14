@@ -31,7 +31,7 @@ I build systems that connect millions of people with content they care about. Cu
 
 ## Recent Work
 
-### Yahoo News Recommendation Systems (2023–present)
+### Yahoo News Recommendation Systems (2024–present)
 
 Co-leading the design of Yahoo’s next-generation recommendation system—rethinking how we serve personalized content at scale.
 
